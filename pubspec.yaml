@@ -1,0 +1,22 @@
+name: cv_builder
+description: "A Flutter package to build and preview CVs with form input and JSON serialization."
+publish_to: 'none'     # remove this line when ready to publish
+
+version: 1.0.0
+
+homepage: https://github.com/MUHAMMADhad/cv_builder
+
+environment:
+  sdk: ^3.11.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
