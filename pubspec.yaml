@@ -1,6 +1,5 @@
 name: cv_builder
 description: "A Flutter package to build and preview CVs with form input and JSON serialization."
-publish_to: https://pub.dev     # remove this line when ready to publish
 
 version: 1.0.0
 
