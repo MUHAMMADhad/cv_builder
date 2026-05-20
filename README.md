@@ -1,4 +1,7 @@
 # CV Builder
+<img width="380" height="778" alt="image" src="https://github.com/user-attachments/assets/65994718-bb70-4a25-989f-d2238adf1377" />
+
+
 # Team Members
 Muhammad Hadi 2380242
 Muhammad Rohan Ali 2380246
