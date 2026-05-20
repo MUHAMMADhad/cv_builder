@@ -1,4 +1,9 @@
 # CV Builder
+# Team Members
+Muhammad Hadi 2380242
+Muhammad Rohan Ali 2380246
+Tahami Ishaq 2380277
+Ahmed Bilal 2380224
 
 A Flutter package to build and preview professional CVs with easy-to-use form inputs and JSON serialization support.
 
